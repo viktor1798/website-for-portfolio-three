@@ -1,0 +1,1 @@
+[layout](https://www.figma.com/file/mVBc4lpnn3exuu6RiM7nMM/%D1%82%D1%83%D1%80-(Copy)?node-id=0%3A1)
