@@ -1,0 +1,99 @@
+.description{
+margin-top: 200px;
+
+}
+.description__title{
+
+}
+
+/* повторяется в других блоках! */
+.title__main{
+
+}
+.main__text{
+
+}
+.text__max-item{
+    font-family: 'Balqis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 128px;
+    color: #E2AB3F;
+}
+.secendory__text{
+    position:relative;
+    height: 28px;
+    left: 170px;
+    bottom: 20px;
+}
+.text__min-item{
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+
+/* повторяется в других блоках! */
+.description__block{
+    display: flex;
+    margin: 107px 0 0 0;
+}
+.block__slider{
+    position: relative;
+    right: 366px;
+    margin-top: -70px;
+    margin-right: -300px;
+}
+.slider__arrow-back{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    top: 385px;
+}
+.slider__img-1{
+    
+}
+.slider__arrow_next{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 885px;
+    bottom: 390px;
+
+}
+
+
+/* повторяется в других блоках! */
+.block__items{
+
+}
+.items__text{
+    width: 545px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin: 50px 0 50px 0;
+    
+}
+.items__text-bold{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #000000;
+}
+.items__list{
+    margin: 50px 0 50px 0;
+}
+.list__text{
+    list-style:none; 
+}

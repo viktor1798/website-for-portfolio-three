@@ -62,11 +62,12 @@
     line-height: 334px;
 }
 .text__secendory{
-    position: absolute;
+    position: relative;
     width: 500px;
     height: 66px;
-    left: 1015px;
-    top: 516px;
+    left: 680px;
+    bottom: 65px;
+    
 }
 .secendory__item{
     font-family: 'Roboto Condensed';
