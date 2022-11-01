@@ -1,0 +1,45 @@
+.hotel{
+    margin-top: 200px;
+}
+.hotel__box{
+    display: flex;
+}
+.box__main{
+
+}
+.main__logo{
+
+}
+.logo__text{
+
+}
+.logo__secendory{
+    position:relative;
+    height: 28px;
+    left: 120px;
+    bottom: 20px;
+}
+
+.main__img{
+   
+}
+.img__hotel-main{
+
+}
+
+.box__secendory{
+    margin: 135px -50px 0 100px;
+}
+
+.secendory__text1{
+width: 600px;
+}
+.text__item{
+margin: 20px 0 20px 0;
+}
+.secendory__image1{
+    margin-top: 80px;
+}
+.image__hotel-secendory{
+    margin: 0 39px 50px 0;
+}
