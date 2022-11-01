@@ -1,0 +1,266 @@
+.price{
+    display: flex;
+    margin-top: 200px;
+}
+
+
+.price__main-block{
+    /* display: flex; */
+}
+.main-block__title{
+
+}
+.title__text2{
+
+}
+.text2__max-item2{
+    font-family: 'Balqis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 128px;
+    
+    color: #E2AB3F;
+}
+.title__secendory2{
+    margin-top:-25px;
+    position: relative;
+    left: 121px;
+}
+.secendory2__min-item2{
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+
+.main-block__in-out{
+display: flex;
+margin-top: 100px;
+}
+.in-out__in{
+margin-right: 75px;
+}
+.in__text{
+
+}
+.text__chapter{
+    margin-bottom: 50px;
+}
+.chapter__item{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: bold;
+    color: #000000;
+}
+.text__list{
+
+}
+.list__items{
+    list-style:none;
+}
+.items__1{
+    margin: 20px 0 20px 0;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    width: 525px;
+    
+    color: #000000;
+}
+.items__2{
+    margin: 20px 0 20px 0;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    width: 376px;
+    
+    color: #000000;
+}
+.in-out__out{
+    display: flex;
+    
+}
+.out__text{
+    margin-right: 20px;
+}
+.out__image{
+
+}
+.image__1{
+    position: relative;
+    left: 92px;
+    bottom: 152px;
+}
+.image__2{
+    position: relative;
+    bottom: 260px;
+}
+.image__3{
+    position: relative;
+    bottom: 80px;
+}
+
+
+.price__secendory-block{
+    display: flex;
+    margin-top: 201px;
+}
+.secendory-block__form{
+    margin-top: 105px;
+}
+
+
+.form__date-price{
+    margin-left: 105px;
+}
+.date-price__date-item{
+    
+}
+.date-item__items-num{
+
+}
+.items-num__num1{
+    font-family: 'Balqis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 69px;
+    /* identical to box height, or 72% */
+    
+    
+    color: #E2AB3F;
+}
+.date-item__items-txt{
+  position: relative;
+  left: 140px;
+}
+.items-txt__txt1{
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+
+.date-price__price-item{
+   
+}
+.price-item__items-num{
+    margin-left: 125px;
+}
+.items-num__num2{
+    font-family: 'Balqis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 69px;
+    /* or 72% */
+    
+    
+    color: #E2AB3F;
+}
+.price-item__items-txt{
+    position: relative;
+    left: 243px;
+}
+.items-txt__txt2{
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+
+.form__request{
+    margin-top: 100px;
+    margin-left: 102px;
+}
+.request__form-main{
+    text-align: center;
+}
+.form-main__title{
+    margin-bottom: 30px;
+    
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.form-main__name{
+    margin: 20px 0 20px 0;
+
+    background: #FFFFFF;
+    border: 1px solid #E2AB3F;
+    width: 356px;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    padding:15px 0 14px 31px ;
+}
+.form-main__phone{
+    margin: 20px 0 20px 0;
+
+    background: #FFFFFF;
+    border: 1px solid #E2AB3F;
+    width: 356px;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    padding:15px 0 14px 31px ;
+}
+.form-main__button{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    width: 280px;
+    height: 50px;
+
+    color: #000000;
+
+    background: #FFFFFF;
+    border: 1px solid #E2AB3F;
+
+    text-align: center;
+
+    
+}
+
+
+.secendory-block__image{
+    margin-left: 213px;
+}
+.image__price-block{
+
+}
